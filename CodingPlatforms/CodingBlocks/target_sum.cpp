@@ -27,6 +27,9 @@ void target_sum(int a[], int target, int n)
 		}
 	}
 }
+
+//Brute Force appoach
+//O(n^2) time complexity
 int main() {
 	int n;
 	cin>>n;
